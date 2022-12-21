@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "auronix/ruby"
+Auronix::Ruby::CLI.new.call(ARGV)
