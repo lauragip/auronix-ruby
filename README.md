@@ -1,10 +1,8 @@
 # auronix-ruby
 
 [![Gem Version](https://badge.fury.io/rb/auronix-ruby.svg)](https://rubygems.org/gems/auronix-ruby)
-[![Circle](https://circleci.com/gh/fruizg0302/auronix-ruby/tree/main.svg?style=shield)](https://app.circleci.com/pipelines/github/fruizg0302/auronix-ruby?branch=main)
-[![Code Climate](https://codeclimate.com/github/fruizg0302/auronix-ruby/badges/gpa.svg)](https://codeclimate.com/github/fruizg0302/auronix-ruby)
 
-TODO: Description of this gem goes here.
+Ruby bindings for Auronix-Calixta API
 
 ---
 

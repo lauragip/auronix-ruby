@@ -1,8 +1,9 @@
 require_relative "lib/auronix/ruby/version"
+require 'auronix/version'
 
 Gem::Specification.new do |spec|
   spec.name = "auronix-ruby"
-  spec.version = Auronix::Ruby::VERSION
+  spec.version = Auronix::VERSION
   spec.authors = ["Fernando Ruiz"]
   spec.email = ["fernando.ruiz@hey.com"]
 
